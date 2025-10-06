@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Hackaton",
-  description: "Que o hacking esteja com você",
+  title: "Big tech code",
+  description: "Empresa de tecnologia focada em soluções inovadoras.",
 };
 
 export default function RootLayout({ children }) {
